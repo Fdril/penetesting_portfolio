@@ -24,6 +24,7 @@ HackTheBox has been a key platform in my learning:
 ## Projects & Tools
 This portfolio showcases:
 - **Writeups** of solved machines and challenges (without spoilers).
+- **Walkthrough** of active and retired machine and on the academy.
 - **Custom Scripts** for automation and penetration testing.
 - **Security Research & Findings** from real-world engagements.
 
