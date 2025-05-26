@@ -29,7 +29,7 @@ This portfolio showcases:
 - **Security Research & Findings** from real-world engagements.
 
 ## Certifications & Achievements
-- [HackTheBox Badges](#)
+- [HackTheBox Badges](https://academy.hackthebox.com/my-badges)
 - [Certified Penetration Tester (Insert Certifications Here)](#)
 - [Bug Bounty Reports & Disclosures](#)
 
