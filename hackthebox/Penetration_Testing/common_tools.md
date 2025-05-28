@@ -94,3 +94,27 @@ nc -l – This command will instruct the local system to begin listening for TCP
 nc site.com 1234 (less than) file_name – This command will initiate the transfer of a file based on the specified port number.
 ```
 
+#**Terminal multiplexers, like tmux**
+Terminal multiplexers, like tmux or Screen, are great utilities for expanding a standard Linux terminal's features, like having multiple windows within one terminal and jumping between them. Let's see some examples of using tmux, which is the more common of the two. If tmux  is not present on our Linux system, we can install it with the following command:
+
+DamiL@htb[/htb]$ sudo apt install tmux -y
+
+Terminal multiplexers, like tmux or Screen,  are great utilities for expanding a standard Linux terminal's features,  like having multiple windows within one terminal and jumping between  them. Let's see some examples of using tmux, which is the more common of the two. If tmux  is not present on our Linux system, we can install it with the following command:
+                                                                                                                                                 
+                  DamiL@htb[/htb]$ sudo apt install tmux -y
+
+
+Once we have tmux, we can start it by entering tmux as our command:
+![image](https://github.com/user-attachments/assets/25e61f05-5a1b-453a-9456-c6efd3f76829)
+
+
+The default key to input tmux commands prefix is [CTRL + B]. In order to open a new window in tmux, we can hit the prefix 'i.e. [CTRL + B]' and then hit C:
+
+![image](https://github.com/user-attachments/assets/371b9799-5a65-49b8-9e86-afe19947c79e)
+
+We see the numbered windows at the bottom. We can switch to each  window by hitting the prefix and then inputting the window number, like 0 or 1. We can also split a window vertically into panes by hitting the prefix and then [SHIFT + %]:
+![image](https://github.com/user-attachments/assets/fc3259cb-32fd-43d1-968e-6b4f707d9d18)
+We can also split into horizontal panes by hitting the prefix and then [SHIFT + "]:
+
+![image](https://github.com/user-attachments/assets/ae814398-4111-443f-a947-f3ee2c4152ca)
+
