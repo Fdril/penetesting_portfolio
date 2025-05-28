@@ -24,11 +24,11 @@ SSH operates on a client-server model:
 Penetration testers use SSH for secure remote access when credentials or private keys are obtained during security assessments. SSH provides a **stable, reliable** alternative to reverse shells, allowing enumeration, exploitation, and persistence.
 
 ### Example SSH Connection
-```bash
+
 ssh username@remote-server-ip
 
 
-
+```
 # 🔐 NETCAT
 # 🔗 Netcat (nc) – The Swiss Army Knife of Networking  
 
@@ -92,4 +92,5 @@ nc -z -v site.com – This will run a basic port scan of the specified website o
 nc -l – This command will instruct the local system to begin listening for TCP connections and UDP activity on a specific port number.
 
 nc site.com 1234 (less than) file_name – This command will initiate the transfer of a file based on the specified port number.
+```
 
