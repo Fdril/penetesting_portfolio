@@ -70,7 +70,7 @@ The web page title PHP 7.4.3 - phpinfo()  indicates that this is a PHPInfo file,
 SSH 
 devices version
 server headers
-                                                                                                                                                
-        ![image](https://github.com/user-attachments/assets/73f7ae81-c9fd-47fb-97c6-7dc11d4a7b07)
+        
+ ![image](https://github.com/user-attachments/assets/73f7ae81-c9fd-47fb-97c6-7dc11d4a7b07)
 
 
