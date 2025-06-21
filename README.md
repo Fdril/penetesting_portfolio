@@ -3,7 +3,7 @@
 # 🛡️ Penetration Testing Portfolio
 
 ## About Me
-Hello, I’m Oluwaseyi, a passionate **Web Application Penetration Tester** dedicated to identifying vulnerabilities and enhancing cybersecurity. My journey began with **HackTheBox**, where I’ve honed my skills in ethical hacking, exploit development, and security analysis. 
+Hello, I’m Damilola, a passionate **Web Application Penetration Tester** dedicated to identifying vulnerabilities and enhancing cybersecurity. My journey began with researching on **YouTube** which was an eye-opener , listened to many professional perspectives and lots of talk and i later concluded to start the journey with **Cisco NetAcad** and move on to **TryHackMe** and **HackTheBox**, where I’ve honed my skills in ethical hacking, exploit development, and security analysis. 
 
 I thrive on solving complex security challenges, dissecting web applications for vulnerabilities, and developing strategies to fortify defenses.
 
