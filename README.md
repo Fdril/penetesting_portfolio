@@ -21,7 +21,7 @@ HackTheBox has been a key platform in my learning:
 - **Active Challenges** – Engaging in hands-on labs to refine my attack techniques.
 - **CTFs & Community Engagement** – Participating in cybersecurity competitions to sharpen my problem-solving skills.
 
-## Projects & Tools
+## Projects & Showcase
 This portfolio showcases:
 - **Writeups** of solved machines and challenges (without spoilers).
 - **Walkthrough** of active and retired machine and on the academy.
